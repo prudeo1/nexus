@@ -28,7 +28,7 @@ const NFT_DATA: NFTItem[] = [
     creator: "0xArtist",
     price: "2.4 ETH",
     lastSale: "1.2 ETH",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "/public/barbora-dostalova-D8z4iOkV3a4-unsplash.jpg",
     category: "Art",
   },
   {
@@ -37,7 +37,7 @@ const NFT_DATA: NFTItem[] = [
     creator: "MetaCreator",
     price: "1.8 ETH",
     lastSale: "0.9 ETH",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "/public/barbora-dostalova-yYuW_7uTOzY-unsplash.jpg",
     category: "Digital",
   },
   {
@@ -46,7 +46,7 @@ const NFT_DATA: NFTItem[] = [
     creator: "CryptoVisionary",
     price: "3.2 ETH",
     lastSale: "2.1 ETH",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "/public/guerrillabuzz-jIsiOJ4gxIY-unsplash.jpg",
     category: "Neon",
   },
   {
@@ -55,7 +55,7 @@ const NFT_DATA: NFTItem[] = [
     creator: "BlockchainArtist",
     price: "1.5 ETH",
     lastSale: "0.8 ETH",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "/public/hazel-z-eWfSIP60OgA-unsplash.jpg",
     category: "Abstract",
   },
 ]
